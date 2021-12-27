@@ -1,0 +1,8 @@
+先运行client_control.py的主程序
+
+之后可以运行car_control.py程序，只需要更改主题名为car0_trajectory即可给名为car0的小车发送数据
+给car0小车和car1小车都发送了数据，它们就都可以动起来了
+
+最后运行receive.py，可看到小车发布的轨迹消息
+
+坐标系转换在trail.py程序里，只需要变动y，即可使得左下角为坐标原点。

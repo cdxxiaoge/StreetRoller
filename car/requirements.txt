@@ -1,0 +1,4 @@
+pip 安装即可
+python ~= 3.7
+pygame~=2.0.1
+paho-mqtt~=1.5.1
